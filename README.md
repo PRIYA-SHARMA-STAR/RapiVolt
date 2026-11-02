@@ -1,3 +1,7 @@
+## 📄 Project Documentation
+
+[View RapiVolt Documentation (PDF)](docs/RapiVolt%20Documenation%204.O.pdf)
+
 # ⚡ On-Demand EV Charging Service
 
 An on-demand service connecting electric vehicle drivers with nearby homeowners and charging providers who have been registered with the system.
