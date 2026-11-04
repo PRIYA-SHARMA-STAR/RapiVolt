@@ -1,6 +1,6 @@
 ## 📄 Project Documentation
 
-[View RapiVolt Documentation (PDF)](docs/RapiVolt%20Documenation%204.O.pdf)
+[View RapiVolt Documentation (PDF)](docs/RapiVolt_Project_Documentations.pdf)
 
 # ⚡ On-Demand EV Charging Service
 
