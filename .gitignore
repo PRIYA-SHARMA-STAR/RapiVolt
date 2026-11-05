@@ -1,1 +1,23 @@
 build/
+
+# Java / Maven
+target/
+*.class
+
+# Node.js
+node_modules/
+dist/
+.expo/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
